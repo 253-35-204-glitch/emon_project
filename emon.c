@@ -23,5 +23,8 @@ int main(){
         printf("Person %d salary: %.2f\n",i+1,person[i].salary);
     }
 
+
+
+    
     return 0;
 }
